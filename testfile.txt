@@ -1,1 +1,1 @@
-content from text file\n\n
+content from text file<br>
